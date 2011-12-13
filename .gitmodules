@@ -1,0 +1,33 @@
+[submodule "emacs.d/rinari"]
+	path = emacs.d/rinari
+	url = https://github.com/eschulte/rinari.git
+[submodule "emacs.d/android-mode"]
+	path = emacs.d/android-mode
+	url = https://github.com/remvee/android-mode.git
+[submodule "emacs.d/color-theme-railscasts"]
+	path = emacs.d/color-theme-railscasts
+	url = https://github.com/olegshaldybin/color-theme-railscasts.git
+[submodule "emacs.d/gist.el"]
+	path = emacs.d/gist.el
+	url = https://github.com/defunkt/gist.el.git
+[submodule "emacs.d/io-mode"]
+	path = emacs.d/io-mode
+	url = https://github.com/superbobry/io-mode.git
+[submodule "emacs.d/yasnippets-rails"]
+	path = emacs.d/yasnippets-rails
+	url = https://github.com/eschulte/yasnippets-rails.git
+[submodule "emacs.d/rhtml"]
+	path = emacs.d/rhtml
+	url = https://github.com/eschulte/rhtml.git
+[submodule "emacs.d/twilight-emacs"]
+	path = emacs.d/twilight-emacs
+	url = https://github.com/crafterm/twilight-emacs.git
+[submodule "emacs.d/yasnippet"]
+	path = emacs.d/yasnippet
+	url = https://github.com/capitaomorte/yasnippet.git
+[submodule "emacs.d/yaml-mode"]
+	path = emacs.d/yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
+[submodule "emacs.d/clojure-mode"]
+	path = emacs.d/clojure-mode
+	url = https://github.com/technomancy/clojure-mode.git
